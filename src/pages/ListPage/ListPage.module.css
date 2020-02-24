@@ -1,0 +1,31 @@
+/* .nav {
+  height: 50px;
+  background-color: rgb(238, 238, 238);
+} */
+
+.ul {
+  list-style: none;
+  padding: 20px;
+  margin: 0;
+}
+
+.li {
+  text-align: left;
+  background-color: #fff;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.ListPage {
+  font-size: initial;
+  background-color: rgb(234, 234, 234);
+  min-height: 100vh;
+}
+
+.link {
+  display: block;
+  padding: 25px;
+  text-decoration: none;
+  color: #444;
+  letter-spacing: 2px;
+}

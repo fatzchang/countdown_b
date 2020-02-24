@@ -1,0 +1,65 @@
+.loginPage {
+  background-color: #fff;
+  width: 100%;
+  min-height: 100vh;
+  /* background-image: url('../../assets/login_background.jpg'); */
+  background-size: cover;
+  background-position: 25% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.box {
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-color: black;
+  margin-bottom: 50px;
+  /* background-image: url('../../assets/logo192.png'); */
+  background-size: contain;
+}
+
+.formGroup {
+  margin-bottom: 16px;
+  width: 100%;
+  background-color: #e6e6e6;
+  border-radius: 3px;
+}
+
+.input {
+  width: 100%;
+  padding: 20px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.btnWrapper {
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.loginBtn {
+  width: 100%;
+  padding: 20px;
+  border: none;
+  background-color: #827ffe;
+  border-radius: 3px;
+  font-size: 18px;
+  color: white;
+  outline: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
